@@ -1,8 +1,9 @@
 import { Box, Typography, Button } from '@mui/material';
 import ethRunImage from '../assets/ethrun.jpeg';
-import dayPartyImage from '../assets/dayparty.jpeg';
-import progr from '../assets/programcon.jpeg';
-import exhi from '../assets/exhi.jpg';
+import dayPartyImage from '../assets/dayparty.jpg';
+import progr from '../assets/programcon.jpg';
+import exhi from '../assets/exhi.png';
+import shopping from '../assets/shopping.jpg';
 
 const eventData = [
   {
@@ -34,11 +35,11 @@ const eventData = [
     date: "Mar 26, 2024"
   },
   {
-    src: dayPartyImage,
-    alt: "Day Party",
-    title: "Day Party",
-    description: "This is a description of the day party event.",
-    date: "Mar 23, 2002"
+    src: shopping,
+    alt: "Shopping",
+    title: "Shopping",
+    description: "This is a description about Shopping items.",
+    date: "Mar 27, 2024"
   },
 ];
 

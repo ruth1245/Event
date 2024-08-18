@@ -30,7 +30,7 @@ const NavBar = () => {
           <Stack direction="row" spacing={2} alignItems="center">
             <Avatar alt="User Name" src={avater} /> {/* Use the correct import */}
             <Typography variant="body1" color="textPrimary">
-              John Doe
+              Harry Potter
             </Typography>
           </Stack>
         </Toolbar>
